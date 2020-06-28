@@ -23,5 +23,6 @@
 | Unknown | t962x_r314 | txlx_t962x_r314 | mali450 |
 | Unknown | u212 | g12a_s905x2_u212 | dvalin |
 | Unknown | S905W | gxl_p281 | mali450 |
-| Unknown | S805 | m200/m201 | | 
-| Unknown | S802 | k200_B | |
+| Unknown | S805 | m200/m201 | mali450 |
+| Unknown | S802 | k200_B | mali450 |
+| Unknown | S801 | | mali450 |
