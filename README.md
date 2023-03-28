@@ -27,3 +27,8 @@
 | Unknown | S805 | m200/m201 | mali450 |
 | Unknown | S802 | k200_B | mali450 |
 | Unknown | S801 | | mali450 |
+| Ohm | S905X4 | sc2_s905x4_ah212 | dvalin |
+| Ohmcas | S905C2 | sc2_s905x4_ah212 | dvalin |
+| Oppen | S905Y4 | s4_s905y4_ap222 | dvalin |
+| Oppencas | S905C3 | s4d_s905c3_ap232 | dvalin |
+| Planck | S805X2 | s4_s805x2_aq222 | dvalin |
